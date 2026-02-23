@@ -14,12 +14,13 @@ BIM–NLP workflow.
 
 ## 📂 Files Included
 - Activity_ID.py  
-- Activity_List02.py  
-- Activity_Duration5.py  
+- Activity_List.py  
+- Activity_Duration.py  
 - Generate_Relationships.py  
 - Crashing_Duration.py  
-- BOQ_Format.py  
-- Pricing02.py  
+- BOQ_Format.py
+- BEXPORT ALL ELEMENT FINAL.dyn  
+- Pricing.py  
 - README.md  
 
 ## 🛠 Software Used
