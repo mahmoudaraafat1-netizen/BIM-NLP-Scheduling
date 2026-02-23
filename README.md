@@ -31,5 +31,5 @@ BIM–NLP workflow.
 - Primavera P6  
 
 ## 🔒 Data Availability
-Project BIM data and P6 files are confidential.  
+Project BIM data  are confidential.  
 However, sanitized example inputs + code structure are provided for reproducibility.
