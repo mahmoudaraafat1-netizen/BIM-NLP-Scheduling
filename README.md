@@ -19,7 +19,7 @@ BIM–NLP workflow.
 - Generate_Relationships.py  
 - Crashing_Duration.py  
 - BOQ_Format.py
-- BEXPORT ALL ELEMENT FINAL.dyn  
+- EXPORT ALL ELEMENT FINAL.dyn  
 - Pricing.py  
 - README.md  
 
