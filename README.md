@@ -1,9 +1,9 @@
-![Academic Project](https://img.shields.io/badge/Type-Academic%20Project-purple)
-![Paper](https://img.shields.io/badge/Publication-Related%20Paper-blue)
-![NLP](https://img.shields.io/badge/Domain-NLP-informational)
-![SBERT](https://img.shields.io/badge/Model-SBERT-orange)
-![Revit 2024](https://img.shields.io/badge/BIM-Revit%202024-success)
-![Output](https://img.shields.io/badge/Output-Primavera%20P6-success)
+![Type](https://img.shields.io/badge/Type-Academic%20Project-purple)
+![Publication](https://img.shields.io/badge/Publication-Related%20Paper-blue)
+![Domain](https://img.shields.io/badge/Domain-NLP-teal)
+![Model](https://img.shields.io/badge/Model-SBERT-orange)
+![BIM](https://img.shields.io/badge/BIM-Revit%202024-green)
+![Output](https://img.shields.io/badge/Output-Primavera%20P6-yellow)
 ![License](https://img.shields.io/badge/License-Non--Commercial-red)
 # BIM–NLP Scheduling Framework
 
