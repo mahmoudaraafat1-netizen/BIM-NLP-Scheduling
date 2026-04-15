@@ -71,4 +71,6 @@ For collaboration or commercial inquiries, please contact:
 [ Mahmoudaraafat1@gmail.com ]
 
 ---
-![Framework](images/framework.png)
+<p align="center">
+  <img src="images/Framework.png" width="800"/>
+</p>
