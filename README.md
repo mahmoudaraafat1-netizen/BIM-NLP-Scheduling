@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)
+![License](https://img.shields.io/badge/License-Non--Commercial-red)
 # BIM–NLP Scheduling Framework
 
 An integrated framework for automated construction schedule generation using Building Information Modeling (BIM) and Natural Language Processing (NLP).
