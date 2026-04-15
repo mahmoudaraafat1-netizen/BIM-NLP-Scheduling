@@ -2,7 +2,7 @@
 ![Publication](https://img.shields.io/badge/Publication-Related%20Paper-blue)
 ![Domain](https://img.shields.io/badge/Domain-NLP-teal)
 ![Model](https://img.shields.io/badge/Model-SBERT-orange)
-![BIM](https://img.shields.io/badge/BIM-Revit%202024-green)
+![BIM](https://img.shields.io/badge/BIM-Revit-green)
 ![Output](https://img.shields.io/badge/Output-Primavera%20P6-yellow)
 ![License](https://img.shields.io/badge/License-Non--Commercial-red)
 # BIM–NLP Scheduling Framework
