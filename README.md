@@ -69,3 +69,6 @@ Senior Planning Engineer | BIM & NLP Researcher
 ## 📬 Contact
 For collaboration or commercial inquiries, please contact:  
 [ Mahmoudaraafat1@gmail.com ]
+
+---
+![Framework](images/framework.png)
