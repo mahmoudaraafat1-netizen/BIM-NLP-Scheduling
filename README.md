@@ -1,39 +1,71 @@
 # BIM–NLP Scheduling Framework
 
-This repository contains the sanitized Python scripts developed for automating 
-activity generation, duration estimation, and dependency extraction using a hybrid 
-BIM–NLP workflow.
+An integrated framework for automated construction schedule generation using Building Information Modeling (BIM) and Natural Language Processing (NLP).
 
-## 📌 What This Code Does
-- Extracts activities from BIM-based data
-- Generates activity IDs and structured lists
-- Estimates durations using productivity rates
-- Creates FS/SS/FF/SF logic using rules + SBERT similarity
-- Applies heuristic crashing to reduce schedule duration
-- Produces Excel sheets ready for Primavera P6 import
+---
 
-## 📂 Files Included
-- Activity_ID.py  
-- Activity_List.py  
-- Activity_Duration.py  
-- Generate_Relationships.py  
-- Crashing_Duration.py  
-- BOQ_Format.py
-- EXPORT ALL ELEMENT FINAL.dyn  
-- Pricing.py  
-- README.md  
+## 📌 Overview
+This project presents a BIM–NLP-based approach for transforming model-derived quantities and textual construction knowledge into a structured and executable project schedule.
 
-## 🛠 Software Used
-- Autodesk Revit  
+The framework integrates:
+- BIM data extraction (Autodesk Revit + Dynamo)
+- Semantic matching using SBERT
+- Rule-based logic generation
+- Automated activity creation and sequencing
+- Export to Primavera P6
+
+---
+
+## 🚀 Key Features
+- Automated activity generation from BIM quantities
+- Semantic matching using SBERT embeddings
+- Rule-based dependency generation (FS, SS relationships)
+- Duration estimation based on productivity data
+- Schedule export compatible with Primavera P6
+
+---
+
+## 🧠 Methodology
+The workflow includes:
+1. BIM data extraction  
+2. BOQ transformation  
+3. Semantic cost mapping  
+4. Activity generation  
+5. Duration estimation  
+6. Logic generation  
+7. Schedule export  
+
+---
+
+## 🛠️ Technologies Used
+- Autodesk Revit 2024  
 - Dynamo for Revit  
-- Visual Studio Code (Python)  
+- Python 3.13  
+- Sentence-BERT (SBERT)  
 - Microsoft Excel  
 - Primavera P6  
 
-## 🔒 Data Availability
-Project BIM data  are confidential.  
-However, sanitized example inputs + code structure are provided for reproducibility.
+---
 
-## License
-This project is licensed for **non-commercial use only**.  
-Commercial use requires prior written permission from the author.
+## 📄 Related Publication
+An Integrated BIM–NLP Framework for Design-Informed Automated Construction Schedule Generation  
+(Under publication in *Designs*, MDPI)
+
+---
+
+## 🔒 License
+This project is provided for **research and educational purposes only**.
+
+Commercial use, distribution, or integration into proprietary systems is strictly prohibited without prior written permission from the author.
+
+---
+
+## 👨‍💻 Author
+Mahmoud Donia  
+Senior Planning Engineer | BIM & NLP Researcher
+
+---
+
+## 📬 Contact
+For collaboration or commercial inquiries, please contact:  
+[ Mahmoudaraafat1@gmail.com ]
