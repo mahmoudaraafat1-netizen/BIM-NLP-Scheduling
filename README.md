@@ -1,5 +1,6 @@
 ![Type](https://img.shields.io/badge/Type-Academic%20Project-purple)
 ![Publication](https://img.shields.io/badge/Publication-Related%20Paper-blue)
+![Paper](https://img.shields.io/badge/Publication-MDPI%20Designs-orange)
 ![Domain](https://img.shields.io/badge/Domain-NLP-teal)
 ![Model](https://img.shields.io/badge/Model-SBERT-orange)
 ![BIM](https://img.shields.io/badge/BIM-Revit%202024-green)
@@ -55,8 +56,12 @@ The workflow includes:
 ---
 
 ## 📄 Related Publication
-An Integrated BIM–NLP Framework for Design-Informed Automated Construction Schedule Generation  
-(Under publication in *Designs*, MDPI)
+This project is based on our published research:
+
+**An Integrated BIM–NLP Framework for Design-Informed Automated Construction Schedule Generation**  
+Published in *Designs (MDPI), 2026*
+
+🔗 https://www.mdpi.com/2411-9660/10/2/43
 
 ---
 
