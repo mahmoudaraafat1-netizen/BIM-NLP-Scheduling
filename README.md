@@ -3,6 +3,7 @@
 ![NLP](https://img.shields.io/badge/Domain-NLP-informational)
 ![SBERT](https://img.shields.io/badge/Model-SBERT-orange)
 ![Revit 2024](https://img.shields.io/badge/BIM-Revit%202024-success)
+![Output](https://img.shields.io/badge/Output-Primavera%20P6-success)
 ![License](https://img.shields.io/badge/License-Non--Commercial-red)
 # BIM–NLP Scheduling Framework
 
