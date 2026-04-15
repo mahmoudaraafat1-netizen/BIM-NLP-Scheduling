@@ -1,5 +1,7 @@
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)
+![Academic Project](https://img.shields.io/badge/Type-Academic%20Project-purple)
+![Paper](https://img.shields.io/badge/Publication-Related%20Paper-blue)
+![SBERT](https://img.shields.io/badge/Model-SBERT-orange)
+![Revit 2024](https://img.shields.io/badge/BIM-Revit%202024-success)
 ![License](https://img.shields.io/badge/License-Non--Commercial-red)
 # BIM–NLP Scheduling Framework
 
