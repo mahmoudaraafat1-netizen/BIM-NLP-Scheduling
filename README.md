@@ -74,3 +74,4 @@ For collaboration or commercial inquiries, please contact:
 <p align="center">
   <img src="images/Framework.png" width="800"/>
 </p>
+*Figure: Proposed BIM–NLP integrated framework for automated schedule generation.*
