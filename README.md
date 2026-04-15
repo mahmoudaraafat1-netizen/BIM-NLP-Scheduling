@@ -33,3 +33,7 @@ BIM–NLP workflow.
 ## 🔒 Data Availability
 Project BIM data  are confidential.  
 However, sanitized example inputs + code structure are provided for reproducibility.
+
+## License
+This project is licensed for **non-commercial use only**.  
+Commercial use requires prior written permission from the author.
